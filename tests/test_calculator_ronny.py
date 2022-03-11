@@ -13,6 +13,10 @@ def test_add_assignment_2_ronny():
 
 # Äntligen FREDAG!!
 
+# DET MÅSTE bli fredag..... vääääldigt snart
+
+
+
 def test_add_test_tommy():
     """Tommy adds an update to Ronny's test file.
      Tommy will update with git pull instead of git rebase."""
