@@ -8,3 +8,5 @@ def test_add_function_tommy():
 
 def test_add_function_eric_gran():
     assert add(hej, hopp) == 203232
+def test_add_function_yhlva():
+    assert add(1, 2) == 3
