@@ -23,8 +23,13 @@ Can this be uploaded to github?
 4. git commit -m "..."
 5. git push origin namnet_på_branch
 
-# Rebase 
+# Rebase (rewrites history)
+
 1. git checkout main
 2. git pull
 3. git checkout branch_name
 4. git rebase main
+5. Resolve conflicts in eg PyCharm (Right+click, select Git/Resolve Conflicts, Press merge button)
+6. git add .
+7. git commit -m "..."
+8. git push origin branch_name -f          -f = force, needed if we use rebase as we rewrite history
