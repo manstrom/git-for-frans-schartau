@@ -12,3 +12,6 @@ def test_add_assignment_2_ronny():
 #jag la till en rad till
 
 # Äntligen FREDAG!!
+
+# DET MÅSTE bli fredag..... vääääldigt snart
+
