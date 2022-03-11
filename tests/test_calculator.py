@@ -1,6 +1,6 @@
 import pytest
 
-from calculator import add
+from src.calculator import add
 
 
 def test_add_function_tommy():
