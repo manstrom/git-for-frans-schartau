@@ -7,8 +7,17 @@ def test_add_name_to_store():
 def test_this_is_a_test123():
     assert the_text "test123"
 
+def test_this_is_a_test123():
+    assert the_text "test123"
 
+def test_this_is_a_test1():
+    assert the_text "test123"
 
+def test_this_is_a_test2():
+    assert the_text "test123"
+
+def test_this_is_a_test3():
+    assert the_text "test123"
 
 def test_add_assignment_2_ericgran():
     assert add(1, 2) == 3
