@@ -33,3 +33,22 @@ Can this be uploaded to github?
 6. git add .
 7. git commit -m "..."
 8. git push origin branch_name -f          -f = force, needed if we use rebase as we rewrite history
+
+# Delete branch
+
+On local machine:
+`git branch -D [branch_name]`
+
+On Github:
+Press the garbage can on branch.
+
+# Prune (remove) deleted branches from local repository
+
+When a branch has been deleted on remote (eg Github), you need to prune it from local repository.
+
+1. git checkout main
+2. git pull
+3. git fetch --all
+4. git pull --all
+5. git fetch -p
+6. git pull -p
