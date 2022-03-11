@@ -14,3 +14,6 @@ def test_add_assigment_3_filip():
 def test_add_assignment_2_louise():
     """Louise updates same file as Filip. Hope it works!"""
     assert add(20, 20) == 40
+
+def test_add_assigment_4_filip()
+    assert add(3,3) == 6
