@@ -12,3 +12,8 @@ def test_add_assignment_2_ronny():
 #jag la till en rad till
 
 # Äntligen FREDAG!!
+
+def test_add_test_tommy():
+    """Tommy adds an update to Ronny's test file.
+     Tommy will update with git pull instead of git rebase."""
+    assert "snart helg" == "snart helg!!!"
