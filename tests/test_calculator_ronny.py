@@ -13,5 +13,4 @@ def test_add_assignment_2_ronny():
 
 # Äntligen FREDAG!!
 
-# DET MÅSTE bli fredag..... vääääldigt snart
-
+## Blir nog en Öl ikväll
