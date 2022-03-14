@@ -17,3 +17,6 @@ def test_add_assignment_2_louise():
 
 def test_add_assigment_4_filip()
     assert add(3,3) == 6
+
+def test_add_test_louise():
+    assert add (3, 2) == 5
