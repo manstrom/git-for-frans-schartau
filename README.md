@@ -1,6 +1,6 @@
 # git-for-frans-schartau
 
-Example repository for test specialist education at Frans Schartau Handelsintitut
+Example repository for test specialist education at Frans Schartau Handelsinstitut
 
 # Create, checkout and update branch - version 1
 
